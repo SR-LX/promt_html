@@ -13,10 +13,14 @@ build/
 .vscode/
 *.swp
 *.swo
-
+.trae/rules
+.env
+.cursor
 # OS generated files
 .DS_Store
 Thumbs.db
+.Project创世纪/frontend/node_modules
+.Project创世纪/frontend/public
 
 # Environment variables
 .env
